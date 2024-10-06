@@ -8,7 +8,7 @@ categories: [news]
 
 ![](thumbnail.jpg)
 
-In today’s digital age , there is so much information available on every subject, whether you’re looking to learning new skill or dive deeper into a particular  field , the internet has it all. Growing up in this era has significantly shaped my own journey. Much of what I know today, particularly in the field of software engineering, has come from online resources.
+In today’s digital age , there is so much information available on every subject, whether you’re looking to learning new skill or dive deeper into a particular  field , it's all on internet. Growing up in this era has significantly shaped my own journey. Much of what I know today, particularly in the field of software engineering, has come from online resources.
 
 ## Why this blog ?
 
