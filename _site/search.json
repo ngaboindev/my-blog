@@ -11,7 +11,7 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "Welcome! :)\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "In today’s digital age , there is so much information available on every subject, whether you’re looking to learning new skill or dive deeper into a particular field , the internet has it all. Growing up in this era has significantly shaped my own journey. Much of what I know today, particularly in the field of software engineering, has come from online resources."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -25,6 +25,13 @@
     "href": "index.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 4, 2024\n\n\nRobert Ngabo\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 6, 2024\n\n\nRobert Ngabo\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html#why-this-blog",
+    "href": "posts/welcome/index.html#why-this-blog",
+    "title": "Welcome To My Blog",
+    "section": "Why this blog ?",
+    "text": "Why this blog ?\nAs I continue learning and exploring software engineering, and other fields I deeply interested (philosophy, politics, literature,…) - I’ve realized the value of sharing knowledge. Here, I’ll break down technical concepts in software engineering, from programming languages to building apps, into practical and easy-to-understand pieces.\nSharing what I learn makes the whole process more meaningful. Writing about it not only helps me understand things better but also gives others a chance to benefit from it. If something here catches your interest or helps you out, that’s what makes this blog worthwhile for me."
   }
 ]
